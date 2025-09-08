@@ -1,5 +1,5 @@
-// Name: Tanishq Jain
-// PRN: 22070126119
+// Name: HENIL SHAH
+// PRN: 22070126102
 // Batch: 2022-26
 
 import java.util.Scanner;
@@ -54,3 +54,4 @@ public class Main {
         } while (choice != 8);
     }
 }
+
